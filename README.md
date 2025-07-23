@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Demo" width="600"/>
+  <img src="demo.gif" alt="Demo" width="600"/>
 </p>
 
 
