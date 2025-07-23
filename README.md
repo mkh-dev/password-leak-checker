@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.7+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.x-orange?logo=streamlit)
 ![Requests](https://img.shields.io/badge/Requests-2.x-red?logo=python)
-![Difficulty](https://img.shields.io/badge/Level-Beginner-yellow)
 ![Status](https://img.shields.io/badge/Status-Working-brightgreen)
 
 ---
